@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ed2d508762cf84e0d8528e3772469763
+timeCreated: 1477595796
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heavy_corrupt_0
+    21300002: heavy_corrupt_1
+    21300004: heavy_corrupt_2
+    21300006: heavy_corrupt_3
+    21300008: heavy_corrupt_4
+    21300010: heavy_corrupt_5
+    21300012: heavy_corrupt_6
+    21300014: heavy_corrupt_7
+    21300016: heavy_corrupt_8
+    21300018: heavy_corrupt_9
+    21300020: heavy_corrupt_10
+    21300022: heavy_corrupt_11
+    21300024: heavy_corrupt_12
+    21300026: heavy_corrupt_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy_corrupt_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3925
+        width: 1357
+        height: 1152
+      alignment: 9
+      pivot: {x: 0.59196955, y: 0.37891898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3132
+        width: 536
+        height: 720
+      alignment: 9
+      pivot: {x: 0.47260723, y: 0.8058889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3095
+        width: 778
+        height: 801
+      alignment: 9
+      pivot: {x: 0.7264679, y: 0.73829526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2692
+        width: 1256
+        height: 389
+      alignment: 9
+      pivot: {x: 0.24866466, y: 0.5377445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2985
+        width: 2672
+        height: 2100
+      alignment: 9
+      pivot: {x: 0.5357176, y: 0.47902483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_5
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 4175
+        width: 864
+        height: 925
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_6
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3477
+        width: 783
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.5731696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_7
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 2736
+        width: 793
+        height: 653
+      alignment: 9
+      pivot: {x: 0.41668123, y: 0.66863686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_8
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 19
+        width: 2996
+        height: 2511
+      alignment: 9
+      pivot: {x: 0.54165643, y: 0.30411425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 621
+        width: 1380
+        height: 2027
+      alignment: 9
+      pivot: {x: 0.56383777, y: 0.05090031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_10
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1502
+        width: 580
+        height: 801
+      alignment: 9
+      pivot: {x: 0.25950843, y: 0.64664316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_11
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 893
+        width: 469
+        height: 455
+      alignment: 9
+      pivot: {x: 0.68783784, y: 0.7742909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_12
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 122
+        width: 521
+        height: 580
+      alignment: 9
+      pivot: {x: 0.73954505, y: 0.7531491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heavy_corrupt_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34
+        width: 1417
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

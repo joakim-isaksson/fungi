@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 65d0f6978423a42bab98bab0ae20957c
+timeCreated: 1477601718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: antihero_spriteSheet_0
+    21300002: antihero_spriteSheet_1
+    21300004: antihero_spriteSheet_2
+    21300006: antihero_spriteSheet_3
+    21300008: antihero_spriteSheet_4
+    21300010: antihero_spriteSheet_5
+    21300012: antihero_spriteSheet_6
+    21300014: antihero_spriteSheet_7
+    21300016: antihero_spriteSheet_8
+    21300018: antihero_spriteSheet_9
+    21300020: antihero_spriteSheet_10
+    21300022: antihero_spriteSheet_11
+    21300024: antihero_spriteSheet_12
+    21300026: antihero_spriteSheet_13
+    21300028: antihero_spriteSheet_14
+    21300030: antihero_spriteSheet_15
+    21300032: antihero_spriteSheet_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: antihero_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5029
+        width: 573
+        height: 648
+      alignment: 9
+      pivot: {x: 0.57266843, y: 0.47858042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4178
+        width: 624
+        height: 754
+      alignment: 9
+      pivot: {x: 0.7076017, y: 0.59817624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3627
+        width: 402
+        height: 486
+      alignment: 9
+      pivot: {x: 0.75319445, y: 0.8141482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3673
+        width: 236
+        height: 366
+      alignment: 9
+      pivot: {x: 0.63722795, y: 0.81602067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 4187
+        width: 967
+        height: 1485
+      alignment: 9
+      pivot: {x: 0.6339643, y: 0.47507563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 3539
+        width: 361
+        height: 569
+      alignment: 9
+      pivot: {x: 0.512816, y: 0.7357995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3516
+        width: 588
+        height: 666
+      alignment: 9
+      pivot: {x: 0.6573657, y: 0.66672236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 3484
+        width: 375
+        height: 522
+      alignment: 9
+      pivot: {x: 0.8084369, y: 0.7908636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 3807
+        width: 398
+        height: 394
+      alignment: 9
+      pivot: {x: 0.3023829, y: 0.81704694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3775
+        width: 407
+        height: 527
+      alignment: 9
+      pivot: {x: 0.1476091, y: 0.5263366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 4302
+        width: 1513
+        height: 1370
+      alignment: 9
+      pivot: {x: 0.5642151, y: 0.57429504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 4427
+        width: 1232
+        height: 1178
+      alignment: 9
+      pivot: {x: 0.5800365, y: 0.11914187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 2089
+        width: 1378
+        height: 1549
+      alignment: 9
+      pivot: {x: 0.6276701, y: 0.59610313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 149
+        width: 1704
+        height: 1757
+      alignment: 9
+      pivot: {x: 0.5532894, y: 0.047023557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4901
+        y: 208
+        width: 628
+        height: 1399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 2099
+        width: 792
+        height: 3566
+      alignment: 9
+      pivot: {x: 0.56834954, y: 0.40702194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: antihero_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 22
+        width: 2882
+        height: 3437
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.28737718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

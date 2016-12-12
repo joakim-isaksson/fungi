@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 5fa647e27d07446d5a9d83bf3ec860f9
+timeCreated: 1477336556
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ranged_spriteSheet_0
+    21300002: ranged_spriteSheet_1
+    21300004: ranged_spriteSheet_2
+    21300006: ranged_spriteSheet_3
+    21300008: ranged_spriteSheet_4
+    21300010: ranged_spriteSheet_5
+    21300012: ranged_spriteSheet_6
+    21300014: ranged_spriteSheet_7
+    21300016: ranged_spriteSheet_8
+    21300018: ranged_spriteSheet_9
+    21300020: ranged_spriteSheet_10
+    21300022: ranged_spriteSheet_11
+    21300024: ranged_spriteSheet_12
+    21300026: ranged_spriteSheet_13
+    21300028: ranged_spriteSheet_14
+    21300030: ranged_spriteSheet_15
+    21300032: ranged_spriteSheet_16
+    21300034: ranged_spriteSheet_17
+    21300036: ranged_spriteSheet_18
+    21300038: ranged_spriteSheet_19
+    21300040: ranged_spriteSheet_20
+    21300042: ranged_spriteSheet_21
+    21300044: ranged_spriteSheet_22
+    21300046: ranged_spriteSheet_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ranged_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2857
+        width: 864
+        height: 741
+      alignment: 9
+      pivot: {x: 0.8203467, y: 0.73961824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2199
+        width: 428
+        height: 611
+      alignment: 9
+      pivot: {x: 0.5244032, y: 0.8504297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1551
+        width: 407
+        height: 742
+      alignment: 9
+      pivot: {x: 0.47433776, y: 0.75337124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 846
+        width: 261
+        height: 533
+      alignment: 9
+      pivot: {x: 0.45998293, y: 0.8723193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 569
+        width: 799
+        height: 1489
+      alignment: 9
+      pivot: {x: 0.60457593, y: 0.50350726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2188
+        width: 1144
+        height: 1109
+      alignment: 9
+      pivot: {x: 0.50456506, y: 0.037690505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1092
+        width: 408
+        height: 961
+      alignment: 9
+      pivot: {x: 0.7431931, y: 0.2826328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1102
+        width: 318
+        height: 282
+      alignment: 9
+      pivot: {x: 0.46715578, y: 0.5370375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1457
+        width: 308
+        height: 637
+      alignment: 9
+      pivot: {x: 0.56782156, y: 0.79513574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1154
+        width: 224
+        height: 543
+      alignment: 9
+      pivot: {x: 0.56994087, y: 0.84622735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1128
+        width: 1148
+        height: 538
+      alignment: 9
+      pivot: {x: 0.72290105, y: 0.5388274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1718
+        width: 1405
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2449
+        width: 319
+        height: 554
+      alignment: 9
+      pivot: {x: 0.5818537, y: 0.7639407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2496
+        width: 162
+        height: 423
+      alignment: 9
+      pivot: {x: 0.6289454, y: 0.8209901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3160
+        width: 846
+        height: 355
+      alignment: 9
+      pivot: {x: 0.6913592, y: 0.48529103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 2925
+        width: 485
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2972
+        width: 580
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 2705
+        width: 496
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2543
+        width: 579
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 2371
+        width: 616
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 131
+        width: 627
+        height: 830
+      alignment: 9
+      pivot: {x: 0.5666319, y: 0.34270346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 21
+        width: 1436
+        height: 1039
+      alignment: 9
+      pivot: {x: 0.5036368, y: 0.42963278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 42
+        width: 1358
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ranged_spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3309
+        width: 321
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5252708, y: 0.06342316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

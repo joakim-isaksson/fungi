@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MapPoint
+  - MapManager
+  - GameManager
+  - ScreenFaider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - characters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: WorldMapBg
+    uniqueID: 2068997167
+    locked: 0
+  - name: WorldMapChar
+    uniqueID: 2445661625
+    locked: 0
+  - name: Dialog
+    uniqueID: 2121095531
+    locked: 0
+  - name: FieldBg
+    uniqueID: 1534785751
+    locked: 0
+  - name: GridGround
+    uniqueID: 4027147873
+    locked: 0
+  - name: GridDecoration
+    uniqueID: 863406135
+    locked: 0
+  - name: DeadCharacters
+    uniqueID: 3183486785
+    locked: 0
+  - name: character
+    uniqueID: 273250643
+    locked: 1
+  - name: Hero
+    uniqueID: 121584987
+    locked: 0
+  - name: FieldFg
+    uniqueID: 3483309157
+    locked: 0
+  - name: CombatUi
+    uniqueID: 3175037323
+    locked: 0
+  - name: ActionIcons
+    uniqueID: 1944614553
+    locked: 0
+  - name: bones
+    uniqueID: 2090026137
+    locked: 0
+  - name: controls
+    uniqueID: 2411566697
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
