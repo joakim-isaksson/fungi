@@ -541,7 +541,7 @@ public class Puppet2D_Skinning : Editor
             EditorUtility.SetDirty(mesh);
             EditorUtility.SetDirty(sharedMesh);
             AssetDatabase.SaveAssets();
-            EditorApplication.SaveAssets();
+            AssetDatabase.SaveAssets();
         }
         foreach (Transform bone in selectedBones) 
         {

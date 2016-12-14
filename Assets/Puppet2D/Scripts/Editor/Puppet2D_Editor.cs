@@ -392,7 +392,7 @@ public class Puppet2D_Editor : EditorWindow
                             EditorUtility.SetDirty(currentSelection);
                             EditorUtility.SetDirty(currentSelectionMesh);
                             AssetDatabase.SaveAssets();
-                            EditorApplication.SaveAssets();
+                            AssetDatabase.SaveAssets();
                         }
 						else
 							previousVertColors = currentSelectionMesh.colors;

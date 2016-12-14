@@ -229,7 +229,7 @@ public class Puppet2D_SortingLayerEditor : Editor {
 		EditorUtility.SetDirty(renderer.gameObject);
 
 		AssetDatabase.SaveAssets ();
-		EditorApplication.SaveAssets ();
+		AssetDatabase.SaveAssets ();
 		serializedObject.ApplyModifiedProperties ();
 	}
 
